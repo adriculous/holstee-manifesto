@@ -1,0 +1,55 @@
+/* CSS Stylesheet for the Holstee Manifesto */
+
+/* Google Fonts CSS Codes:
+
+    font-family: 'Squada One', cursive;
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Yeseva One', cursive;
+
+    font-family: 'Playfair Display', serif;
+
+*/
+
+main {
+    background: #4A5268;
+}
+
+#life {
+    width: 300px;
+    padding: 50px;
+}
+
+#life.yourlife {
+    font-family: 'Squada One', cursive;
+    font-size: 24px;
+}
+
+#love {
+
+}
+
+#simple {
+
+}
+
+#united {
+
+}
+
+#inspiringdream {
+
+}
+
+#travel {
+
+}
+
+#opportunities {
+
+}
+
+#createlife {
+
+}

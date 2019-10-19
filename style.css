@@ -1,0 +1,189 @@
+/* CSS Stylesheet for the Holstee Manifesto */
+
+/* Google Fonts CSS Codes:
+
+font-family: 'Yeseva One', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'Allan', cursive;
+
+*/
+
+body {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+    padding: 0;
+}
+
+#container {
+    border: #e4dfda solid 10px;
+    margin: 10px 10px 0 10px;
+    overflow: auto;
+}
+
+#life {
+    width: 250px;
+    height: 477px;
+    padding: 5px 10px;
+    float: left;
+    background: #f16059;
+}
+
+.yourlife {
+    font-family: 'Allan', cursive;
+    font-size: 28px;
+    line-height: 35px;
+}
+
+.quit {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+#love {
+    width: 270px;
+    float: right;
+    padding: 5px 10px;
+    background: #4257ad;
+}
+
+.love-life {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.waiting {
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+#simple {
+    width: 270px;
+    height: 227px;
+    float: right;
+    padding: 5px 10px;
+    background: #d0fef5;
+}
+
+.analyzing {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.emotions {
+    font-family: 'Allan', cursive;
+    font-size: 30px;
+}
+
+.eat {
+    font-family: 'Playfair Display SC', serif;
+}
+
+#united {
+    width: 250px;;
+    height: 200px;
+    float: left;
+    padding: 5px 10px;
+    background: #4257ad;
+}
+
+.open {
+    font-family: 'Allan', cursive;
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.differences {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+#inspiringdream {
+    width: 275px;
+    height: 190px;
+    float: right;
+    padding: 10px 10px 10px 5px;
+    background: #4f9ea8;
+}
+
+.passion {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 35px;
+}
+
+.share {
+    font-family: 'Allan', cursive;
+    font-size: 25px;
+    line-height: 35px;
+}
+
+#travel {
+    width: 250px;
+    padding: 10px;
+    background: #d0fef5;
+    font-family: 'Yeseva One', cursive;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.travel-often {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 60px;
+}
+
+#opportunities {
+    width: 250px;
+    height: 305px;
+    padding: 5px 10px;
+    float: left;
+    background: #4f9ea8;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+.seize {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+#createlife {
+    width: 270px;
+    margin-top: -190px;
+    padding: 5px 10px;
+    float: right;
+    background: #f16059;
+    font-family: 'Allan', cursive;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.short {
+    font-family: 'Yeseva One', cursive;
+    font-size: 30px;
+}
+
+.dream-passion {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 700;
+    font-size: 30px;
+    font-size: 40px;
+    line-height: 45px;
+}
+
